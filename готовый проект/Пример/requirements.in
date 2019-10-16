@@ -1,0 +1,9 @@
+# requirements.in
+psycopg2
+pillow
+django
+social_auth_app_django
+django-debug-toolbar
+django_extensions
+django-debug-toolbar-template-profiler
+python-memcached

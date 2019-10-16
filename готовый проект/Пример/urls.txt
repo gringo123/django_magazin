@@ -1,0 +1,44 @@
+# URLS file for siege
+# --
+# Format the url entries in any of the following formats:
+# http://www.whoohoo.com/index.html
+# http://www/index.html
+# www/index.html
+# http://www.whoohoo.com/cgi-bin/howto/display.cgi?1013
+# Use the POST directive for pages that require it:
+# http://www.whoohoo.com/cgi-bin/haha.cgi POST ha=1&ho=2
+#      or POST content from a file:
+# http://www.whoohoo.com/melvin.jsp POST </home/jeff/haha
+# http://www.whoohoo.com/melvin.jsp POST <./haha
+# You may also set and reference variables inside this file,
+# for more information, man urls_txt
+# -------------------------------------------------------
+
+http://192.168.0.98/
+http://192.168.0.98/products/
+http://192.168.0.98/products/category/1/
+http://192.168.0.98/products/category/2/
+http://192.168.0.98/products/category/3/
+http://192.168.0.98/products/category/4/
+http://192.168.0.98/basket/
+http://192.168.0.98/order/
+http://192.168.0.98/auth/edit/
+http://192.168.0.98/order/update/30/
+http://192.168.0.98/order/update/29/
+http://192.168.0.98/order/update/27/
+http://192.168.0.98/order/update/25/
+http://192.168.0.98/order/update/24/
+http://192.168.0.98/order/update/23/
+http://192.168.0.98/order/update/22/
+http://192.168.0.98/order/update/21/
+http://192.168.0.98/order/update/20/
+http://192.168.0.98/order/update/19/
+http://192.168.0.98/order/update/18/
+http://192.168.0.98/order/update/15/
+http://192.168.0.98/order/update/14/
+http://192.168.0.98/order/update/13/
+http://192.168.0.98/order/update/12/
+http://192.168.0.98/order/update/10/
+http://192.168.0.98/order/update/8/
+http://192.168.0.98/order/update/7/
+http://192.168.0.98/order/update/6/
